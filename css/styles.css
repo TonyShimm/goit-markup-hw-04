@@ -148,7 +148,7 @@ ul {
 
   text-align: center;
 
-  background-image: url(./images/Overlay.jpg);
+  background-image: url(/images/Overlay.jpg);
 
   background-size: cover;
 }
